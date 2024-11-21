@@ -1,16 +1,26 @@
-# player_video
+<h1 align="center">👉 Video Player App 👈</h1>
 
-A new Flutter project.
+## Description
+A sleek, YouTube-inspired video player app built with Flutter. Features include online video streaming, playback controls, video duration display, shimmer loading effects, and a responsive UI. Powered by Provider for state management and designed for an intuitive user experience.
 
-## Getting Started
+## 🌟 Key Features:
 
-This project is a starting point for a Flutter application.
+- Stream videos from online sources.
+- Display video metadata with thumbnails.
+- Elegant shimmer animations for loading.
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="center"> Video Player App Video </h3>
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/24d71109-50c1-4a6d-ac8b-b9502616e638">
+</video>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3 align="center">👉 Video Player App Images👈</h3>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/97067f88-1fd4-4a8a-adf3-7b8432480216" />
+  <img height="550"  src="https://github.com/user-attachments/assets/7ba87517-a0fe-4a8d-80b4-ed6419e81292" />
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<a href="https://github.com/YashuPatel1724/player_video/tree/master/lib">-> 📂 Go To Dart File 📂 </a>
+</div>
